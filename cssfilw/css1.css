@@ -1,0 +1,328 @@
+body {
+ text-align: center;
+  }
+.navbar{
+  height: 30px;
+  padding: 0 0 3.7rem;
+ }
+.nav-link,.navbar-brand,.logo{
+  padding-top: 75px ;
+ }
+.logo{
+  height: 110px;
+  }
+  .fab{
+    size:2.5rem;
+  }
+.navbar-brand{
+ font-size: 50%;
+ font-family: "Ubuntu";
+ /* font-size: 2.5rem; */
+ font-weight: bold;
+ padding-left: 12px;
+  }
+  .profile-pic-area{
+    padding-top: 6%;
+    padding-right: 0;
+    margin-right: 0;
+    padding-left: 3%;
+  }
+
+  .profile-pic{
+    width: 370px;
+    height: 320px;
+    border-radius: 50%;
+  }
+.big-heading {
+  font-family: 'Pattaya', sans-serif;
+  font-size: 4.5rem;
+  padding-top: 3%;
+  /* line-height: 1.5; */
+}
+.big-heading1{
+font-family: 'Volkhov', serif;
+  font-size: 3rem;
+  text-align: left;
+
+}
+.big-heading2{
+  font-family: 'Vollkorn', serif;
+    font-size: 1.4rem;
+}
+
+/* Containers */
+
+.container-fluid{
+  padding: 7% 15%;
+ }
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+.tbtn{
+  margin: 3% 3% 0 89%;
+
+}
+
+/* Title Section */
+
+.title {
+  background-image: url('https://www.newgenapps.com/hubfs/canvas/images/parallax/Website-Design-Background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: left;
+}
+
+.title .container-fluid {
+  padding: 3% 3% 7%;
+}
+
+
+/*Skills */
+
+.skillheading{
+  text-align: center;
+  color: black;
+  margin-top: 5%;
+  font-family: 'Volkhov', serif;
+    font-size: 3rem;
+}
+.carousel-item{
+  padding-top: 3%;
+}
+.skills{
+  text-align: center;
+  padding-top: 3%;
+  background-color: white;
+  padding-bottom: -2px;
+  margin-bottom: 0;
+
+}
+.skillsheading{
+    font-family: 'Noto Sans HK', sans-serif;
+    border-width: thick;
+    font-size: 3rem;
+}
+.skillsheading2{
+  text-align: center;
+  margin-top: 1%;
+  font-family: 'Noto Sans HK', sans-serif;
+}
+
+.skillsimage{
+  height: 200px;
+  width: 650px;
+}
+.carousel-item{
+  text-align: center;
+  color:#01676b;
+
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+  outline: black;
+  color: black;
+  size:100px;
+}
+ /*Project */
+.projectsection{
+  /* padding-top: .5px; */
+  padding: 50PX;
+  margin-top: 1px;
+  background-color: #eaf6f6;
+
+}
+ .project_area{
+   /* text-align: center; */
+   /* lign-items: center; */
+padding: .5% 14%;
+ }
+
+/* .row{
+  align-items: center;
+  /* padding-left: 350px; */
+/* }  */
+
+.card{
+ display: inline-block;
+ text-align: center;
+   border: none;
+   background-color:#eaf6f6;
+
+ }
+ .card-img-top{
+   height: 230px;
+   width: 400px;
+
+ }
+ .card_body{
+   text-align: center;
+ }
+ .card-title{
+   padding-left: 11%;
+ }
+
+/*experience*/
+.experience{
+  background-color:white;
+  color: black;
+
+}
+
+.proheading{
+  text-align: center;
+  padding-top: 2%;
+  font-size: 3rem;
+  font-family: 'Noto Sans HK', sans-serif;
+  border-width: thick;
+}
+.pro_area{
+  padding-left: 40px;
+  margin-left: 0;
+}
+.pro_area1{
+  padding-right: 150px;
+
+}
+.pro_text{
+text-align: left;
+padding-left: 0;
+margin-left: 0;
+color:#01676b;
+padding-top: 2%;
+
+}
+.pro_text1{
+  text-align: left;
+  padding-left:250px ;
+
+  color:#01676b;
+  padding-top: 2%;
+}
+
+/* .pro_description1{
+  padding-left: 20px;
+} */
+.img-left {
+   width: 430px;
+   height: 170px;
+   /* padding-right: 0;
+   margin-right: 0; */
+}
+.pro_description {
+    color: black;
+
+}
+
+
+/*education*/
+.education{
+  text-align: center;
+}
+.educationheading{
+  padding-top: 3%;
+  font-family: 'Volkhov', serif;
+    font-size: 3rem;
+    border-width: thick;
+}
+.ed-part{
+  background-color: white;
+
+}
+.ed-pic1{
+  width: 600px;
+  height: 300px;
+}
+.ed-pic{
+  width: 600px;
+  height: 300px;
+}
+
+/*contact*/
+.contact{
+     background-color:#eaf6f6;
+     text-align: center;
+}
+.contactheading{
+color: #2aa9d2;
+  font-family: 'Volkhov', serif;
+    font-size: 3rem;
+    padding-top: 3%
+}
+.contactheading2{
+color:#2aa9d2;
+  font-family: 'Volkhov', serif;
+    font-size: 3rem;
+    padding-top: 2%
+}
+
+.contact_des{
+  font-family: 'Volkhov', serif;
+    font-size: 1.5rem;
+    color: #00204a;
+}
+
+.icon-contact{
+  color:#2aa9d2;
+}
+
+.contactlist{
+  padding-top: 2%;
+  padding-bottom: 1px;
+}
+
+
+.footer{
+  background-color: white;
+  color: balck;
+}
+.education-details{
+   text-align: center;
+   padding-top: 1%;
+}
+.edetails{
+  height: 270px;
+  width: 500px;
+}
+.etittle{
+  font-family: 'Volkhov', serif;
+    font-size: 3.8rem;
+  padding-top: 2%;
+}
+.course{
+  padding-left: 3%;
+  text-align: left;
+}
+/*pd*/
+.pd{
+  text-align: center;
+  padding-top: 2%;
+
+  color:#004d61;
+
+}
+.pd1_img{
+  height: 300px;
+  width: 450px;
+}
+.pd1_heading{
+  padding-top: 2%;
+  text-align:left;
+}
+.pd1_des{
+  text-align: left;
+}
+.title1{
+    background-color: #defcfc;
+}
