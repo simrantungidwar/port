@@ -308,7 +308,6 @@ color:#2aa9d2;
 .pd{
   text-align: center;
   padding-top: 2%;
-
   color:#004d61;
 
 }
@@ -325,4 +324,23 @@ color:#2aa9d2;
 }
 .title1{
     background-color: #defcfc;
+}
+.ed{
+
+    text-align: left;
+    color: #00334e;
+}
+.etittle{
+  padding-top: 1%;
+}
+.edetails{
+  height: 270px;
+  width: 500px;
+
+}
+.course{
+  text-align: left;
+}
+.list{
+  animation-name: 
 }
